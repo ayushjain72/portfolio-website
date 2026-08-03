@@ -196,6 +196,19 @@ button.back-orange{
 }
 
 
+.project button{
+    padding: 12px 14px;
+    border-radius: 10px;
+    margin: 0 4rem 1.6rem 0;
+    cursor: pointer;
+    transition: .3s;
+    font-weight: 600;
+}
+ .project button:hover{
+     background-color: rgb(251, 145, 100) ;
+     transform:translateY(-3px);
+}
+
 
 .education-card h3{
     color: var(--orange);
